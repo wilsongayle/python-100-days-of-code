@@ -1,3 +1,10 @@
-age = int(input("How old are you?"))
+while True:
+    try:
+        age = int(input("How old are you? "))
+    except ValueError:
+        print("You have typed an invalid number.")
+    else:
+        break
+
 if age > 18:
-print("You can drive at age {age}.")
+    print(f"You can drive at age {age}.")
