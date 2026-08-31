@@ -1,0 +1,32 @@
+question_data = [
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "Hidden in the files for &quot;Mario Kart Arcade GP&quot; is a picture of the Beslan school hostage crisis.",
+        "correct_answer": "True", "incorrect_answers": ["False"]
+    },
+    {"type": "boolean", "difficulty": "easy", "category": "Science &amp; Nature",
+     "question": "The Earth revolves around the Sun in one year.", "correct_answer": "True",
+     "incorrect_answers": ["False"]}, {"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
+                                       "question": "Dihydrogen Monoxide is a dangerous chemical.",
+                                       "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"type": "boolean", "difficulty": "easy", "category": "General Knowledge",
+     "question": "In 2010, Twitter and the United States Library of Congress partnered together to archive every tweet by American citizens.",
+     "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"type": "boolean", "difficulty": "medium", "category": "Geography",
+     "question": "Seoul is the capital of North Korea.", "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"type": "boolean", "difficulty": "medium", "category": "Politics",
+     "question": "Taiwan officially calls itself &quot;the Republic of China&quot;.", "correct_answer": "True",
+     "incorrect_answers": ["False"]}, {"type": "boolean", "difficulty": "easy", "category": "Animals",
+                                       "question": "The Axolotl is an amphibian that can spend its whole life in a larval state.",
+                                       "correct_answer": "True", "incorrect_answers": ["False"]},
+    {"type": "boolean", "difficulty": "medium", "category": "Geography",
+     "question": "Liechtenstein does not have an airport.", "correct_answer": "True",
+     "incorrect_answers": ["False"]}, {"type": "boolean", "difficulty": "medium", "category": "Sports",
+                                       "question": "Formula E is an auto racing series that uses hybrid electric race cars.",
+                                       "correct_answer": "False", "incorrect_answers": ["True"]},
+    {"type": "boolean", "difficulty": "easy", "category": "Entertainment: Japanese Anime &amp; Manga",
+     "question": "Studio Ghibli is a Japanese animation studio responsible for the films &quot;Wolf Children&quot; and &quot;The Boy and the Beast&quot;.",
+     "correct_answer": "False", "incorrect_answers": ["True"]}
+]
